@@ -1,0 +1,12 @@
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\bin\Debug\net5.0\Core.Models.deps.json
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\bin\Debug\net5.0\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\bin\Debug\net5.0\ref\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\bin\Debug\net5.0\Core.Models.pdb
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.csproj.AssemblyReference.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.AssemblyInfoInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.AssemblyInfo.cs
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\ref\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.Models\obj\Debug\net5.0\Core.Models.pdb

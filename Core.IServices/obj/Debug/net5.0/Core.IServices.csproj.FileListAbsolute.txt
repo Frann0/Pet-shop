@@ -1,0 +1,15 @@
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\Core.IServices.deps.json
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\Core.IServices.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\ref\Core.IServices.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\Core.IServices.pdb
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\bin\Debug\net5.0\Core.Models.pdb
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.csproj.AssemblyReference.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.AssemblyInfoInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.AssemblyInfo.cs
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.csproj.CoreCompileInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.csproj.CopyComplete
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\ref\Core.IServices.dll
+C:\Users\mike\RiderProjects\Pert shop\Core.IServices\obj\Debug\net5.0\Core.IServices.pdb

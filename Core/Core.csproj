@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Core.IServices\Core.IServices.csproj" />
+      <ProjectReference Include="..\Core.Models\Core.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="ApplicationService" />
+      <Folder Include="DomainService" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0-preview.7.21377.19" />
+    </ItemGroup>
+
+</Project>

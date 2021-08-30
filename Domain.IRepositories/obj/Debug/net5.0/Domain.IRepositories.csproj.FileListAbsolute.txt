@@ -1,0 +1,15 @@
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\Domain.IRepositories.deps.json
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\Domain.IRepositories.dll
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\ref\Domain.IRepositories.dll
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\Domain.IRepositories.pdb
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\Core.Models.dll
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\bin\Debug\net5.0\Core.Models.pdb
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.csproj.AssemblyReference.cache
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.AssemblyInfoInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.AssemblyInfo.cs
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.csproj.CopyComplete
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.dll
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\ref\Domain.IRepositories.dll
+C:\Users\mike\RiderProjects\Pert shop\Domain.IRepositories\obj\Debug\net5.0\Domain.IRepositories.pdb
