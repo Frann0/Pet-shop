@@ -1,85 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\UI\\UI.csproj": {}
+    "/home/franno/Desktop/Pet-shop/UI/UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj": {
+    "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj",
-        "projectName": "Core.IServices",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\obj\\",
+        "projectUniqueName": "/home/franno/Desktop/Pet-shop/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj",
+        "packagesPath": "/home/franno/.nuget/packages/",
+        "outputPath": "/home/franno/Desktop/Pet-shop/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/franno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj",
-        "projectName": "Core.Models",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,155 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\Domain.IRepositories.csproj": {
+    "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\Domain.IRepositories.csproj",
-        "projectName": "Domain.IRepositories",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\Domain.IRepositories.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\obj\\",
+        "projectUniqueName": "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj",
+        "packagesPath": "/home/franno/.nuget/packages/",
+        "outputPath": "/home/franno/Desktop/Pet-shop/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/franno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.Models\\Core.Models.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\Domain.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\Domain.Services.csproj",
-        "projectName": "Domain.Services",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\Domain.Services.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj"
-              },
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\Infrastructure.Data.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\Infrastructure.Data.csproj",
-        "projectName": "Infrastructure.Data",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Infrastructure.Data\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\Domain.IRepositories.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.IRepositories\\Domain.IRepositories.csproj"
+              "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj"
               }
             }
           }
@@ -301,39 +120,99 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mike\\RiderProjects\\Pert shop\\UI\\UI.csproj": {
+    "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\RiderProjects\\Pert shop\\UI\\UI.csproj",
+        "projectUniqueName": "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/franno/.nuget/packages/",
+        "outputPath": "/home/franno/Desktop/Pet-shop/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/franno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj"
+              },
+              "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/franno/Desktop/Pet-shop/UI/UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/franno/Desktop/Pet-shop/UI/UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\UI\\UI.csproj",
-        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\UI\\obj\\",
+        "projectPath": "/home/franno/Desktop/Pet-shop/UI/UI.csproj",
+        "packagesPath": "/home/franno/.nuget/packages/",
+        "outputPath": "/home/franno/Desktop/Pet-shop/UI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/franno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Core.IServices\\Core.IServices.csproj"
+              "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj"
               },
-              "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\Domain.Services.csproj": {
-                "projectPath": "C:\\Users\\mike\\RiderProjects\\Pert shop\\Domain.Services\\Domain.Services.csproj"
+              "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj"
+              },
+              "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -363,12 +242,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.arch-x64",
+              "version": "[5.0.8, 5.0.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
         }
       }
     }

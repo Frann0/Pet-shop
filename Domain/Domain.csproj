@@ -9,7 +9,13 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Domain.IRepositories\Domain.IRepositories.csproj" />
+      <ProjectReference Include="..\Core\Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Infrastructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Infrastructure.Data\bin\Debug\net5.0\Infrastructure.Data.dll</HintPath>
+      </Reference>
     </ItemGroup>
 
 </Project>
