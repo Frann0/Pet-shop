@@ -7,5 +7,11 @@ namespace Core.IServices
     public interface IPetRepository
     {
         List<Pet> ReadPets();
+
+        Pet CreatePet(Pet pet);
+
+        Pet UpdatePet(Pet pet);
+
+        void DeletePet(int id);
     }
 }

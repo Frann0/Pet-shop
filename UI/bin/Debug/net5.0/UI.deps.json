@@ -8,8 +8,9 @@
     ".NETCoreApp,Version=v5.0": {
       "UI/1.0.0": {
         "dependencies": {
-          "Core.IServices": "1.0.0",
-          "Domain.Services": "1.0.0",
+          "Core": "1.0.0",
+          "Domain": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "6.0.0-preview.7.21377.19"
         },
         "runtime": {
@@ -44,46 +45,30 @@
           }
         }
       },
-      "Core.IServices/1.0.0": {
-        "dependencies": {
-          "Core.Models": "1.0.0"
-        },
-        "runtime": {
-          "Core.IServices.dll": {}
-        }
-      },
-      "Core.Models/1.0.0": {
+      "Core/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.0-preview.7.21377.19"
         },
         "runtime": {
-          "Core.Models.dll": {}
+          "Core.dll": {}
         }
       },
-      "Domain.IRepositories/1.0.0": {
+      "Domain/1.0.0": {
         "dependencies": {
-          "Core.Models": "1.0.0"
-        },
-        "runtime": {
-          "Domain.IRepositories.dll": {}
-        }
-      },
-      "Domain.Services/1.0.0": {
-        "dependencies": {
-          "Core.IServices": "1.0.0",
-          "Infrastructure.Data": "1.0.0"
-        },
-        "runtime": {
-          "Domain.Services.dll": {}
-        }
-      },
-      "Infrastructure.Data/1.0.0": {
-        "dependencies": {
-          "Domain.IRepositories": "1.0.0",
+          "Core": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "6.0.0-preview.7.21377.19"
         },
         "runtime": {
-          "Infrastructure.Data.dll": {}
+          "Domain.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
         }
       }
     }
@@ -115,27 +100,17 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
     },
-    "Core.IServices/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Core.Models/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Domain.IRepositories/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Domain.Services/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Infrastructure.Data/1.0.0": {
+    "Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

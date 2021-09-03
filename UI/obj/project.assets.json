@@ -182,38 +182,40 @@
     ]
   },
   "packageFolders": {
-    "/home/franno/.nuget/packages/": {}
+    "C:\\Users\\mike\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/franno/Desktop/Pet-shop/UI/UI.csproj",
+      "projectUniqueName": "M:\\github\\Pet-shop\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "/home/franno/Desktop/Pet-shop/UI/UI.csproj",
-      "packagesPath": "/home/franno/.nuget/packages/",
-      "outputPath": "/home/franno/Desktop/Pet-shop/UI/obj/",
+      "projectPath": "M:\\github\\Pet-shop\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
+      "outputPath": "M:\\github\\Pet-shop\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/franno/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
-              "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj"
+            "M:\\github\\Pet-shop\\Core\\Core.csproj": {
+              "projectPath": "M:\\github\\Pet-shop\\Core\\Core.csproj"
             },
-            "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj": {
-              "projectPath": "/home/franno/Desktop/Pet-shop/Domain/Domain.csproj"
+            "M:\\github\\Pet-shop\\Domain\\Domain.csproj": {
+              "projectPath": "M:\\github\\Pet-shop\\Domain\\Domain.csproj"
             },
-            "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/home/franno/Desktop/Pet-shop/Infrastructure/Infrastructure.csproj"
+            "M:\\github\\Pet-shop\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "M:\\github\\Pet-shop\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -243,30 +245,13 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.arch-x64",
-            "version": "[5.0.8, 5.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Microsoft.NETCore.App.Host.arch-x64. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "Microsoft.NETCore.App.Host.arch-x64",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

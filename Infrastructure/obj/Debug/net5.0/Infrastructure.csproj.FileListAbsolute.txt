@@ -1,0 +1,17 @@
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Core.dll
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Domain.dll
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Core.pdb
+M:\github\Pet-shop\Infrastructure\bin\Debug\net5.0\Domain.pdb
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+M:\github\Pet-shop\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

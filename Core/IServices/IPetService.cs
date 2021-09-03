@@ -6,6 +6,12 @@ namespace Core.IServices
 {
     public interface IPetService
     {
-        List<Pet> GetPets();
+        List<Pet> ReadPets();
+
+        void CreatePet(Pet pet);
+
+        void UpdatePet(Pet pet);
+
+        void DeletePet(int id);
     }
 }

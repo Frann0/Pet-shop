@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {}
+    "M:\\github\\Pet-shop\\Core\\Core.csproj": {}
   },
   "projects": {
-    "/home/franno/Desktop/Pet-shop/Core/Core.csproj": {
+    "M:\\github\\Pet-shop\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/franno/Desktop/Pet-shop/Core/Core.csproj",
+        "projectUniqueName": "M:\\github\\Pet-shop\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/franno/Desktop/Pet-shop/Core/Core.csproj",
-        "packagesPath": "/home/franno/.nuget/packages/",
-        "outputPath": "/home/franno/Desktop/Pet-shop/Core/obj/",
+        "projectPath": "M:\\github\\Pet-shop\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
+        "outputPath": "M:\\github\\Pet-shop\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/franno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

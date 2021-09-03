@@ -7,15 +7,29 @@ namespace Domain.Services
 {
     public class PetService : IPetService
     {
-        private PetRepository _petRepository;
-        public PetService()
+        private IPetRepository _petRepository;
+        public PetService(IPetRepository petRepository)
         {
-            _petRepository = new PetRepository();
+            _petRepository = petRepository;
         }
-        public List<Pet> GetPets()
+        public List<Pet> ReadPets()
         {
-            return _petRepository.GetPets();
-            throw new NotImplementedException();
+            return _petRepository.ReadPets();
+        }
+
+        public void CreatePet(Pet pet)
+        { 
+            _petRepository.CreatePet(pet);
+        }
+
+        public void UpdatePet(Pet pet)
+        {
+            _petRepository.UpdatePet(pet);
+        }
+
+        public void DeletePet(int id)
+        {
+            _petRepository.DeletePet(id);
         }
     }
 }
