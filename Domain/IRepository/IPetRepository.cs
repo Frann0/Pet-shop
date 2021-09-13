@@ -12,6 +12,6 @@ namespace Core.IServices
 
         Pet UpdatePet(Pet pet);
 
-        void DeletePet(int id);
+        Pet DeletePet(int id);
     }
 }

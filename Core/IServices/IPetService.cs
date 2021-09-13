@@ -8,10 +8,10 @@ namespace Core.IServices
     {
         List<Pet> ReadPets();
 
-        void CreatePet(Pet pet);
+        Pet CreatePet(Pet pet);
 
-        void UpdatePet(Pet pet);
+        Pet UpdatePet(Pet pet);
 
-        void DeletePet(int id);
+        Pet DeletePet(int id);
     }
 }

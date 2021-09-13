@@ -17,19 +17,19 @@ namespace Domain.Services
             return _petRepository.ReadPets();
         }
 
-        public void CreatePet(Pet pet)
+        public Pet CreatePet(Pet pet)
         { 
-            _petRepository.CreatePet(pet);
+           return _petRepository.CreatePet(pet);
         }
 
-        public void UpdatePet(Pet pet)
+        public Pet UpdatePet(Pet pet)
         {
-            _petRepository.UpdatePet(pet);
+            return _petRepository.UpdatePet(pet);
         }
 
-        public void DeletePet(int id)
+        public Pet DeletePet(int id)
         {
-            _petRepository.DeletePet(id);
+            return _petRepository.DeletePet(id);
         }
     }
 }

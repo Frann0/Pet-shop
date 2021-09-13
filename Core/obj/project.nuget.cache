@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lknUHY0+ZFBFEeL+mZZ/q/FiECTnb8lEQupVsmCfvsWXW7E/siZ7/VSabjGgbsWxP7BBBsxKrIEKaBDGC1oS4Q==",
+  "dgSpecHash": "nqlYZPkJfHukm3iMRelChAzDl+ROiysxWNyoP/CBbMq6dAY2cb2pI1rOOaEon5bBp5z5xj3cqt1tdxFZ6em4vg==",
   "success": true,
-  "projectFilePath": "M:\\github\\Pet-shop\\Core\\Core.csproj",
+  "projectFilePath": "/home/franno/Github/Pet-shop/Core/Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mike\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.7.21377.19\\microsoft.extensions.dependencyinjection.6.0.0-preview.7.21377.19.nupkg.sha512",
-    "C:\\Users\\mike\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.7.21377.19\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
-    "C:\\Users\\mike\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.7.21377.19\\system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
+    "/home/franno/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/home/franno/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/home/franno/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19/system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
   ],
   "logs": []
 }

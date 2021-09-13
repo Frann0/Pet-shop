@@ -3,18 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using Core.IServices;
 using Core.Models;
+using Infrastructure.Converters;
+using Infrastructure.Entities;
 
 
 public class PetRepository : IPetRepository
 {
 
     private static int id = 1;
-    private static List<Pet> pets = new List<Pet>();
+    private static List<PetEntity> pets = new List<PetEntity>();
     private List<PetType> types = new PetTypeRepository().ReadAllTypes();
-
+    private readonly PetConverter _petConverter;
+    
     public PetRepository()
     {
-    
+        _petConverter = new PetConverter();
+        
         CreatePet(new Pet
         {
             Name = "Oskar",
@@ -74,14 +78,21 @@ public class PetRepository : IPetRepository
 
     public List<Pet> ReadPets()
     {
-        return pets;
+        List<Pet> allPets = new List<Pet>();
+        foreach (var pet in pets)
+        {
+            allPets.Add(_petConverter.Convert(pet));
+        }
+
+        return allPets;
     }
 
     public Pet CreatePet(Pet pet)
     {
-        pet.Id = id++;
-        pets.Add(pet);
-        return pet;
+        var petEntity = _petConverter.Convert(pet);
+        petEntity.Id = id++;
+        pets.Add(petEntity);
+        return _petConverter.Convert(petEntity);
     }
 
     public Pet UpdatePet(Pet pet)
@@ -93,16 +104,18 @@ public class PetRepository : IPetRepository
             old.Name = pet.Name;
             old.Color = pet.Color;
             old.Price = pet.Price;
-            old.Birthdate = pet.Birthdate;
-            old.SoldTime = pet.SoldTime;
-            old.Type.Id = pet.Type.Id;
+            old.BirthDate = pet.Birthdate;
+            old.SoldDate = pet.SoldTime;
+            old.TypeId = pet.Type.Id;
         }
 
         return null;
     }
 
-    public void DeletePet(int id)
+    public Pet DeletePet(int id)
     {
-        pets.Remove(pets.Find(p => p.Id == id));
+        var pet = pets.Find(p => p.Id == id);
+        pets.Remove(pet);
+        return _petConverter.Convert(pet);
     }
 }
